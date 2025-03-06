@@ -1,4 +1,5 @@
-git status
+get user data..
+process the data
 
 
 login and logout
